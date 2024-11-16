@@ -1,0 +1,129 @@
+{
+    "program": [
+        {
+            "gün": 1,
+            "hareketler": [
+                {
+                    "adı": "Squat",
+                    "set": 4,
+                    "tekrar": 12
+                },
+                {
+                    "adı": "Deadlift",
+                    "set": 4,
+                    "tekrar": 10
+                },
+                {
+                    "adı": "Lunges",
+                    "set": 3,
+                    "tekrar": 12
+                },
+                {
+                    "adı": "Leg Press",
+                    "set": 3,
+                    "tekrar": 12
+                }
+            ]
+        },
+        {
+            "gün": 2,
+            "hareketler": [
+                {
+                    "adı": "Bench Press",
+                    "set": 4,
+                    "tekrar": 12
+                },
+                {
+                    "adı": "Push-ups",
+                    "set": 3,
+                    "tekrar": 15
+                },
+                {
+                    "adı": "Dumbbell Flyes",
+                    "set": 3,
+                    "tekrar": 12
+                },
+                {
+                    "adı": "Shoulder Press",
+                    "set": 4,
+                    "tekrar": 10
+                }
+            ]
+        },
+        {
+            "gün": 3,
+            "hareketler": [
+                {
+                    "adı": "Pull-ups",
+                    "set": 4,
+                    "tekrar": 10
+                },
+                {
+                    "adı": "Lat Pulldown",
+                    "set": 3,
+                    "tekrar": 12
+                },
+                {
+                    "adı": "Bent Over Row",
+                    "set": 3,
+                    "tekrar": 12
+                },
+                {
+                    "adı": "Face Pulls",
+                    "set": 3,
+                    "tekrar": 12
+                }
+            ]
+        },
+        {
+            "gün": 4,
+            "hareketler": [
+                {
+                    "adı": "Plank",
+                    "set": 3,
+                    "tekrar": 60
+                },
+                {
+                    "adı": "Russian Twists",
+                    "set": 3,
+                    "tekrar": 20
+                },
+                {
+                    "adı": "Leg Raises",
+                    "set": 3,
+                    "tekrar": 15
+                },
+                {
+                    "adı": "Mountain Climbers",
+                    "set": 4,
+                    "tekrar": 20
+                }
+            ]
+        },
+        {
+            "gün": 5,
+            "hareketler": [
+                {
+                    "adı": "Bicep Curls",
+                    "set": 3,
+                    "tekrar": 15
+                },
+                {
+                    "adı": "Tricep Dips",
+                    "set": 3,
+                    "tekrar": 12
+                },
+                {
+                    "adı": "Hammer Curls",
+                    "set": 3,
+                    "tekrar": 15
+                },
+                {
+                    "adı": "Skull Crushers",
+                    "set": 3,
+                    "tekrar": 12
+                }
+            ]
+        }
+    ]
+}

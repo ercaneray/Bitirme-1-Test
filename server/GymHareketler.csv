@@ -1,0 +1,71 @@
+Hareket Adı,Zorluk Seviyesi,Önerilen Tekrar Sayısı,Önerilen Set Sayısı,Odaklandığı Vücut Kısmı
+Bench Press,Orta,8-12,3,Göğüs
+Incline Bench Press,Orta,8-12,3,Göğüs
+Push-Up,Kolay,15-20,3,Göğüs
+Chest Fly,Kolay,12-15,3,Göğüs
+Dumbbell Pullover,Orta,10-12,3,Göğüs
+Pull-Up,Zor,8-12,3,Sırt
+Barbell Row,Orta,10-12,3,Sırt
+Lat Pulldown,Orta,10-15,3,Sırt
+Deadlift,Zor,6-10,3,Tüm Vücut
+Seated Cable Row,Orta,10-12,3,Sırt
+Squat,Orta,10-15,4,Bacak
+Leg Press,Orta,10-12,4,Bacak
+Lunges,Orta,10-12,3,Bacak
+Romanian Deadlift,Orta,10-12,3,Bacak
+Step-Up,Orta,10-12,3,Bacak
+Biceps Curl,Kolay,12-15,3,Kol (Biceps)
+Hammer Curl,Kolay,12-15,3,Kol (Biceps)
+Concentration Curl,Orta,12-15,3,Kol (Biceps)
+Triceps Dips,Orta,10-12,3,Kol (Triceps)
+Overhead Triceps Extension,Orta,10-12,3,Kol (Triceps)
+Plank,Kolay,30-60 sn,3,Karın
+Crunches,Kolay,15-20,3,Karın
+Russian Twist,Orta,15-20,3,Karın
+Leg Raise,Orta,10-15,3,Karın
+Bicycle Crunch,Orta,15-20,3,Karın
+Shoulder Press,Orta,8-12,3,Omuz
+Lateral Raise,Kolay,12-15,3,Omuz
+Front Raise,Kolay,12-15,3,Omuz
+Arnold Press,Orta,10-12,3,Omuz
+Upright Row,Orta,10-12,3,Omuz
+Burpees,Orta,15-20,3,Tüm Vücut
+Mountain Climbers,Orta,15-20,3,Tüm Vücut
+Jump Squats,Orta,15-20,3,Tüm Vücut
+Kettlebell Swings,Orta,12-15,3,Tüm Vücut
+Battle Ropes,Orta,30-60 sn,3,Tüm Vücut
+Flat Dumbbell Bench Press,Orta,10-12,3,Göğüs
+Cable Crossover,Orta,12-15,3,Göğüs
+Incline Dumbbell Press,Orta,10-12,3,Göğüs
+Pec Deck Machine,Kolay,10-15,3,Göğüs
+"Push-Up Variations (Diamond, Wide, Decline)",Orta,12-20,3,Göğüs
+Chin-Up,Zor,8-12,3,Sırt
+Inverted Row,Kolay,12-15,3,Sırt
+One-Arm Dumbbell Row,Orta,10-12,3,Sırt
+T-Bar Row,Orta,8-12,3,Sırt
+Straight Arm Pulldown,Orta,10-15,3,Sırt
+Bulgarian Split Squat,Orta,10-12,3,Bacak
+Hack Squat,Orta,8-12,3,Bacak
+Sumo Deadlift,Zor,6-10,3,Bacak
+Calf Raise,Kolay,15-20,3,Bacak
+Goblet Squat,Kolay,12-15,3,Bacak
+Zottman Curl,Orta,10-12,3,Kol (Biceps)
+Reverse Curl,Kolay,10-12,3,Kol (Biceps)
+Skull Crushers,Orta,10-12,3,Kol (Triceps)
+Close-Grip Bench Press,Orta,8-12,3,Kol (Triceps)
+Cable Rope Triceps Pushdown,Kolay,10-15,3,Kol (Triceps)
+Side Plank,Orta,30-60 sn,3,Karın
+V-Ups,Orta,15-20,3,Karın
+Toe Touches,Kolay,15-20,3,Karın
+Sit-Ups,Kolay,15-20,3,Karın
+Hanging Leg Raise,Zor,10-15,3,Karın
+Rear Delt Fly,Kolay,12-15,3,Omuz
+Face Pulls,Orta,12-15,3,Omuz
+Cable Lateral Raise,Kolay,12-15,3,Omuz
+Dumbbell Shrugs,Kolay,15-20,3,Omuz
+Overhead Dumbbell Raise,Orta,10-12,3,Omuz
+High Knees,Kolay,20-30,3,Tüm Vücut
+Jump Rope,Kolay,60-90 sn,3,Tüm Vücut
+Rowing Machine,Orta,500-1000 m,3,Tüm Vücut
+Box Jumps,Orta,10-12,3,Tüm Vücut
+Medicine Ball Slams,Kolay,10-15,3,Tüm Vücut
